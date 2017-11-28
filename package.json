@@ -1,0 +1,24 @@
+{
+  "name": "course-tdd",
+  "version": "1.0.0",
+  "description": "Nossa biblioteca do curso de JS com TDD na pratica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhonesgoncal/course-tdd.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Jhones Goncalves <jhones.goncalves@outlook.com> (http://jhonesgoncalves.esy.es/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jhonesgoncal/course-tdd/issues"
+  },
+  "homepage": "https://github.com/jhonesgoncal/course-tdd#readme"
+}
